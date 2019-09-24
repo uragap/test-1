@@ -2,10 +2,10 @@
 
 Его план состоит в том, чтобы поставить его рядом с женой на кладбище Эль Пардо к северу от Мадрида, где похоронены различные другие политики.
 
-`Many descendents` of Franco's victims support the move.
+`Many descendents` жертв Франко поддерживают этот шаг.
 
-"The idea that people `who` were killed by Franco's troops are buried together with Franco, it's very absurd, and they're still glorifying him as if he was the saviour of Spain," Silvia Navarro, whose great uncle died in 1936, told the BBC.
+«Идея о том, что люди, `who` были убиты войсками Франко, похоронены вместе с Франко, очень абсурдна, и они до сих пор прославляют его, как будто он был спасителем Испании», - сказала Сильвия Наварро, чей великий дядя умер в 1936 году. BBC.
 
-But the family, who would rather he was not moved at all, wanted him to lie in a family crypt in the `Almudena Cathedral` - right in the centre of the capital.
+Но семья, которая предпочла бы, чтобы его вообще не трогали, хотела, чтобы он лежал в семейном склепе в `Almudena Cathedral` - прямо в центре столицы.
 
-The government argued that the former dictator should not be placed `anywhere where` he could be glorified. It also said there were potential `security` issues with the cathedral site.
+Правительство утверждало, что бывшего диктатора нельзя размещать `anywhere where` его можно прославить. Он также сказал, что были потенциальные проблемы с `security` на месте собора.
