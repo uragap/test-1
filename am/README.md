@@ -6,6 +6,6 @@
 
 "ሰዎች የሚለው ሃሳብ `who` ፍራንኮ ወታደሮች ተገድለዋል ፍራንኮ ጋር አብረው ተቀብረው ነው, በጣም ወለፈንዴ ነው, እርሱም ስፔን አዳኝ ነበረ ከሆነ እንደ እነርሱ አሁንም እሱን እያከበረ ነው," የማን ታላቅ አጎቴ 1936 ላይ ሞተ ሲልቪያ ናቫሮ, ወደ ነገረው ቢቢሲ ፡፡
 
-But the family, who would rather he was not moved at all, wanted him to lie in a family crypt in the `Almudena Cathedral` - right in the centre of the capital.
+ግን በጭራሽ `Almudena Cathedral` ቤተሰብ ፣ {code1}Almudena Cathedral{/code1} - በዋና ከተማው መሃል ላይ {code2}Almudena Cathedral{/code2} ይፈልጉ ነበር ፡፡
 
 መንግሥት የቀድሞው አምባገነን ክብር `anywhere where` መቀመጥ እንደሌለበት መንግሥት ተከራክሯል ፡፡ በተጨማሪም በካቴድራል ጣቢያው `security` ችግሮች ሊኖሩ እንደሚችሉ ተናግሯል ፡፡
