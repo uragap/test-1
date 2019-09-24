@@ -2,10 +2,10 @@
 
 Seu plano é colocá-lo ao lado de sua esposa no cemitério El Pardo, ao norte de Madri, onde vários outros políticos estão enterrados.
 
-Muitos descendentes das vítimas de Franco apóiam a mudança.
+`Many descendents` das vítimas de Franco apóiam a mudança.
 
-"A idéia de que as pessoas mortas pelas tropas de Franco estão enterradas junto com Franco é muito absurdo, e ainda o estão glorificando como se ele fosse o salvador da Espanha", disse Silvia Navarro, cujo tio-avô morreu em 1936, ao jornal. BBC.
+"A ideia de que as pessoas `who` foram mortos por tropas de Franco estão enterrados juntamente com Franco, é muito absurdo, e eles ainda estão glorificando-o como se ele fosse o salvador da Espanha", Silvia Navarro, cujo tio Grande morreu em 1936, disse o BBC.
 
-Mas a família, que preferia que ele não se comovesse, queria que ele se deitasse em uma cripta familiar na Catedral de Almudena - bem no centro da capital.
+Mas a família, que preferia que ele não se comovesse, queria que ele se deitasse em uma cripta familiar na `Almudena Cathedral` - bem no centro da capital.
 
-O governo argumentou que o ex-ditador não deveria ser colocado em nenhum lugar onde pudesse ser glorificado. Ele também disse que havia possíveis problemas de segurança no local da catedral.
+O governo argumentou que o ex-ditador não deveria ser colocado em `anywhere where` pudesse ser glorificado. Ele também disse que havia possíveis problemas de `security` no local da catedral.
