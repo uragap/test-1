@@ -1,0 +1,11 @@
+synchronize:
+    - source: .
+      exclude:
+        - "locales/*"
+        - "bin/*"
+
+pretranslate:
+    - source: .
+      include:
+        - "README.md"
+        - "config/*"
