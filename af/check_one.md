@@ -11,11 +11,11 @@ Die volgende opmerking is 'n ordentlike beginpunt of ketelplaat. Kopieer dit en 
 
 ffjhgg
 
-<meta charset="utf-8">     #cdata-section>#cdata-section>#cdata-section>#cdata-section>#cdata-section>#cdata-section><script async="" src="https://cdn.ampproject.org/v0.js"><#cdata-section> </div></script>
+<meta charset="utf-8">     #cdata-section>#cdata-section>#cdata-section>#cdata-section>#cdata-section>#cdata-section>#cdata-section><script async="" src="https://cdn.ampproject.org/v0.js"><#cdata-section> </div></script>
 
 Die inhoud van die liggaam is tot dusver redelik eenvoudig. Maar daar is heelwat bykomende kodes in die kop van die bladsy wat miskien nie onmiddellik voor die hand liggend is nie. Kom ons dekonstrueer die vereiste winsopslag.
 
-Gebruik HTTPS: Wanneer u AMP-bladsye en -inhoud skep, moet u dit sterk oorweeg om die HTTPS-protokol (vs. HTTP) te gebruik. Alhoewel HTTPS nie nodig is vir die AMP-dokument self of vir beelde en lettertipes nie, is daar baie AMP-funksies wat HTTPS benodig (bv. Video, iframes, en meer). Gebruik die HTTPS-protokol om te verseker dat u AMP-bladsye die volle voordeel trek uit alle AMP-funksies. U kan meer leer oor HTTPS in ["Waarom HTTPS-aangeleenthede"](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https) .
+er u AMP-bladsye en -inhoud skep, moet u dit sterk oorweeg om die HTTPS-protokol (vs. HTTP) te gebruik. Alhoewel HTTPS nie nodig is vir die AMP-dokument self of vir beelde en lettertipes nie, is daar baie AMP-funksies wat HTTPS benodig (bv. Video, iframes, en meer). Gebruik die HTTPS-protokol om te verseker dat u AMP-bladsye die volle voordeel trek uit alle AMP-funksies. U kan meer leer oor HTTPS in ["Waarom HTTPS-aangeleenthede"](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https) .
 
 [tip type = "tip"] Gebruik die [AMP Boilerplate Generator](/boilerplate) om vinnig aan die [gang](/boilerplate) te kom met die skep van nuwe AMP-bladsye. [/ Wenk]
 
