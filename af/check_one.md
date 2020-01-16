@@ -1,9 +1,7 @@
 ---
 $title: Skep u AMP HTML-bladsy
 $order: '1'
-description: 'Gebruik HTTPS: Wanneer u AMP-bladsye en -inhoud skep, moet u dit sterk
-  oorweeg om die HTTPS-protokol (vs. HTTP) te gebruik. Alhoewel, HTTPS is nie nodig
-  vir die AMP-dokument self of ...'
+description: G
 author: pbakaus
 contributors:
 - bpaduch
@@ -13,7 +11,7 @@ Die volgende opmerking is 'n ordentlike beginpunt of ketelplaat. Kopieer dit en 
 
 [sourcecode: html] <! docttype html>
 
-<meta charset="utf-8">     #cdata-section>#cdata-section><script async="" src="https://cdn.ampproject.org/v0.js"><#cdata-section><script type="application/ld+json"><#cdata-section></div></script>
+<meta charset="utf-8">     #cdata-section>#cdata-section>#cdata-section><script async="" src="https://cdn.ampproject.org/v0.js"><#cdata-section> </div></script>
 
 Die inhoud van die liggaam is tot dusver redelik eenvoudig. Maar daar is heelwat bykomende kodes in die kop van die bladsy wat miskien nie onmiddellik voor die hand liggend is nie. Kom ons dekonstrueer die vereiste winsopslag.
 
