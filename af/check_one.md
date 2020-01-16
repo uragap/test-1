@@ -1,6 +1,6 @@
 ---
 $title: Skep u AMP HTML-bladsy
-$order: '145545'
+$order: '145'
 description: G
 author: pb
 contributors:
@@ -11,7 +11,7 @@ Die volgende opmerking is 'n ordentlike beginpunt of ketelplaat. Kopieer dit en 
 
 ffjhgg
 
-<meta charset="utf-8">     #cdata-section>#cdata-section>#cdata-section>#cdata-section>#cdata-section>#cdata-section>#cdata-section><script async="" src="https://cdn.ampproject.org/v0.js"><#cdata-section> </div></script>
+<meta charset="utf-8">     #cdata-section>#cdata-section>#cdata-section>#cdata-section>#cdata-section>#cdata-section>#cdata-section>#cdata-section><script async="" src="https://cdn.ampproject.org/v0.js"><#cdata-section> </div></script>
 
 Die inhoud van die liggaam is tot dusver redelik eenvoudig. Maar daar is heelwat bykomende kodes in die kop van die bladsy wat miskien nie onmiddellik voor die hand liggend is nie. Kom ons dekonstrueer die vereiste winsopslag.
 
