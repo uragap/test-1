@@ -9,3 +9,4 @@ pretranslate:
       include:
         - "README.md"
         - "config/*"
+        - "check_one.md"
