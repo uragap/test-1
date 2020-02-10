@@ -12,3 +12,4 @@ pretranslate:
         - "README.md"
         - "config/*"
         - "check_one.md"
+        - "lalala.md"
