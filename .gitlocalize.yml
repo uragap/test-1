@@ -1,10 +1,12 @@
 synchronize:
+  paths:
     - source: .
       exclude:
         - "locales/*"
         - "bin/*"
 
 pretranslate:
+  paths:
     - source: .
       include:
         - "README.md"
